@@ -1,0 +1,7 @@
+test
+testfolder_1/
+testfolder_2/
+testfolder_3/
+testfolder_4/
+index.mine.txt
+test.texter
